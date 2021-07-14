@@ -1,2 +1,2 @@
 # udp-linux
-very sample udp connection linux
+very sample udp c++
